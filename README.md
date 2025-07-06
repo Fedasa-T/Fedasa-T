@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hey there, I'm Fedasa Tolera!<br><br>I'm a ** full-stack developer** from Addis Ababa, <br>Ethiopia 🇪🇹 with a passion for solving real-world problems <br>through code. I build clean, functional, and user-friendly <br>applications — from concept to deployment.<br>
+# 👋 Hey there, I'm Fedasa Tolera!<br><br>I'm a  full-stack developer from Addis Ababa, <br>Ethiopia with a passion for solving real-world problems <br>through code. I build clean, functional, and user-friendly <br>applications — from concept to deployment.<br>
 
 
 ## 🌐 Socials:
